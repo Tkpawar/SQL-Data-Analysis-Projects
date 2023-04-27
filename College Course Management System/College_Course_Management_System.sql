@@ -1,0 +1,1 @@
+create database College_Course_Management_System;

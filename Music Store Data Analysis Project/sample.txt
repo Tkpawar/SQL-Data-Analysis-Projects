@@ -1,0 +1,8 @@
+In this My Sql Music Store Data Analysis Project I have Prefered below Steps :-
+1) Data Gathering 
+2) Data Cleaning Process
+3) Data Preprocessing 
+4) Data Analysis
+5) EDA 
+6) Conclusion
+&) Insights

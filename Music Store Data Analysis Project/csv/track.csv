@@ -1,0 +1,384 @@
+track_id,name,album_id,media_type_id,genre_id,composer,milliseconds,bytes,unit_price
+1,For Those About To Rock (We Salute You),60,3,13,"Angus Young, Malcolm Young, Brian Johnson",343719,11170334,0.99
+2,Balls to the Wall,309,2,18,"Angus Young, Malcolm Young, Brian Johnson",342562,5510424,0.99
+3,Fast As a Shark,306,5,19,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman",230619,3990994,0.99
+4,Restless and Wild,29,4,15,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman",252051,4331779,0.99
+5,Princess of the Dawn,71,2,4,Deaffy & R.A. Smith-Diesel,375418,6290521,0.99
+6,Put The Finger On You,113,3,21,"Angus Young, Malcolm Young, Brian Johnson",205662,6713451,0.99
+7,Let's Get It Up,225,3,2,"Angus Young, Malcolm Young, Brian Johnson",233926,7636561,0.99
+8,Inject The Venom,76,4,21,"Angus Young, Malcolm Young, Brian Johnson",210834,6852860,0.99
+9,Snowballed,325,4,23,"Angus Young, Malcolm Young, Brian Johnson",203102,6599424,0.99
+10,Evil Walks,151,2,7,"Angus Young, Malcolm Young, Brian Johnson",263497,8611245,0.99
+11,C.O.D.,74,3,18,"Angus Young, Malcolm Young, Brian Johnson",199836,6566314,0.99
+12,Breaking The Rules,206,5,7,"Angus Young, Malcolm Young, Brian Johnson",263288,8596840,0.99
+13,Night Of The Long Knives,322,3,24,"Angus Young, Malcolm Young, Brian Johnson",205688,6706347,0.99
+14,Spellbound,265,5,21,"Angus Young, Malcolm Young, Brian Johnson",270863,8817038,0.99
+15,Go Down,347,5,7,AC/DC,331180,10847611,0.99
+16,Dog Eat Dog,258,1,5,AC/DC,215196,7032162,0.99
+17,Let There Be Rock,114,3,25,AC/DC,366654,12021261,0.99
+18,Bad Boy Boogie,275,4,18,AC/DC,267728,8776140,0.99
+19,Problem Child,181,5,25,AC/DC,325041,10617116,0.99
+20,Overdose,182,3,2,AC/DC,369319,12066294,0.99
+21,Hell Ain't A Bad Place To Be,151,2,18,AC/DC,254380,8331286,0.99
+22,Whole Lotta Rosie,24,4,20,AC/DC,323761,10547154,0.99
+23,Walk On Water,146,4,7,"Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw",295680,9719579,0.99
+24,Love In An Elevator,82,3,14,"Steven Tyler, Joe Perry",321828,10552051,0.99
+25,Rag Doll,170,2,1,"Steven Tyler, Joe Perry, Jim Vallance, Holly Knight",264698,8675345,0.99
+26,What It Takes,28,2,18,"Steven Tyler, Joe Perry, Desmond Child",310622,10144730,0.99
+27,Dude (Looks Like A Lady),189,4,18,"Steven Tyler, Joe Perry, Desmond Child",264855,8679940,0.99
+28,Janie's Got A Gun,7,1,10,"Steven Tyler, Tom Hamilton",330736,10869391,0.99
+29,Cryin',115,1,16,"Steven Tyler, Joe Perry, Taylor Rhodes",309263,10056995,0.99
+30,Amazing,34,3,20,"Steven Tyler, Richie Supa",356519,11616195,0.99
+31,Blind Man,16,2,13,"Steven Tyler, Joe Perry, Taylor Rhodes",240718,7877453,0.99
+32,Deuces Are Wild,178,5,15,"Steven Tyler, Jim Vallance",215875,7074167,0.99
+33,The Other Side,291,3,11,"Steven Tyler, Jim Vallance",244375,7983270,0.99
+34,Crazy,2,2,14,"Steven Tyler, Joe Perry, Desmond Child",316656,10402398,0.99
+35,Eat The Rich,346,4,2,"Steven Tyler, Joe Perry, Jim Vallance",251036,8262039,0.99
+36,Angel,25,1,5,"Steven Tyler, Desmond Child",307617,9989331,0.99
+37,Livin' On The Edge,72,2,15,"Steven Tyler, Joe Perry, Mark Hudson",381231,12374569,0.99
+38,All I Really Want,56,1,21,Alanis Morissette & Glenn Ballard,284891,9375567,0.99
+39,You Oughta Know,294,5,12,Alanis Morissette & Glenn Ballard,249234,8196916,0.99
+40,Perfect,303,2,7,Alanis Morissette & Glenn Ballard,188133,6145404,0.99
+41,Hand In My Pocket,306,5,17,Alanis Morissette & Glenn Ballard,221570,7224246,0.99
+42,Right Through You,150,5,6,Alanis Morissette & Glenn Ballard,176117,5793082,0.99
+43,Forgiven,65,4,14,Alanis Morissette & Glenn Ballard,300355,9753256,0.99
+44,You Learn,303,2,16,Alanis Morissette & Glenn Ballard,239699,7824837,0.99
+45,Head Over Feet,235,1,8,Alanis Morissette & Glenn Ballard,267493,8758008,0.99
+46,Mary Jane,60,4,24,Alanis Morissette & Glenn Ballard,280607,9163588,0.99
+47,Ironic,307,3,21,Alanis Morissette & Glenn Ballard,229825,7598866,0.99
+48,Not The Doctor,331,1,16,Alanis Morissette & Glenn Ballard,227631,7604601,0.99
+49,Wake Up,261,2,4,Alanis Morissette & Glenn Ballard,293485,9703359,0.99
+50,You Oughta Know (Alternate),209,4,20,Alanis Morissette & Glenn Ballard,491885,16008629,0.99
+51,We Die Young,180,4,5,Jerry Cantrell,152084,4925362,0.99
+52,Man In The Box,26,1,16,"Jerry Cantrell, Layne Staley",286641,9310272,0.99
+53,Sea Of Sorrow,267,3,25,Jerry Cantrell,349831,11316328,0.99
+54,Bleed The Freak,129,4,10,Jerry Cantrell,241946,7847716,0.99
+55,I Can't Remember,226,2,10,"Jerry Cantrell, Layne Staley",222955,7302550,0.99
+56,"Love, Hate, Love",165,1,21,"Jerry Cantrell, Layne Staley",387134,12575396,0.99
+57,It Ain't Like That,285,1,10,"Jerry Cantrell, Michael Starr, Sean Kinney",277577,8993793,0.99
+58,Sunshine,141,4,17,Jerry Cantrell,284969,9216057,0.99
+59,Put You Down,171,1,17,Jerry Cantrell,196231,6420530,0.99
+60,Confusion,263,3,3,"Jerry Cantrell, Michael Starr, Layne Staley",344163,11183647,0.99
+61,I Know Somethin (Bout You),264,5,24,Jerry Cantrell,261955,8497788,0.99
+62,Real Thing,179,2,4,"Jerry Cantrell, Layne Staley",243879,7937731,0.99
+63,Enter Sandman,307,3,18,Apocalyptica,221701,7286305,0.99
+64,Master Of Puppets,31,4,1,Apocalyptica,436453,14375310,0.99
+65,Harvester Of Sorrow,59,3,3,Apocalyptica,374543,12372536,0.99
+66,The Unforgiven,171,3,19,Apocalyptica,322925,10422447,0.99
+67,Sad But True,215,4,3,Apocalyptica,288208,9405526,0.99
+68,Creeping Death,189,4,10,Apocalyptica,308035,10110980,0.99
+69,Wherever I May Roam,74,5,12,Apocalyptica,369345,12033110,0.99
+70,Welcome Home (Sanitarium),303,4,10,Apocalyptica,350197,11406431,0.99
+71,Cochise,344,1,10,Audioslave/Chris Cornell,222380,5339931,0.99
+72,Show Me How to Live,11,2,22,Audioslave/Chris Cornell,277890,6672176,0.99
+73,Gasoline,46,3,22,Audioslave/Chris Cornell,279457,6709793,0.99
+74,What You Are,71,5,20,Audioslave/Chris Cornell,249391,5988186,0.99
+75,Like a Stone,128,1,12,Audioslave/Chris Cornell,294034,7059624,0.99
+76,Set It Off,103,5,10,Audioslave/Chris Cornell,263262,6321091,0.99
+77,Shadow on the Sun,41,3,5,Audioslave/Chris Cornell,343457,8245793,0.99
+78,I am the Highway,128,5,6,Audioslave/Chris Cornell,334942,8041411,0.99
+79,Exploder,46,5,16,Audioslave/Chris Cornell,206053,4948095,0.99
+80,Hypnotize,162,3,10,Audioslave/Chris Cornell,206628,4961887,0.99
+81,Bring'em Back Alive,345,1,2,Audioslave/Chris Cornell,329534,7911634,0.99
+82,Light My Way,289,4,12,Audioslave/Chris Cornell,303595,7289084,0.99
+83,Getaway Car,191,1,3,Audioslave/Chris Cornell,299598,7193162,0.99
+84,The Last Remaining Light,137,4,7,Audioslave/Chris Cornell,317492,7622615,0.99
+85,Your Time Has Come,260,4,14,"Cornell, Commerford, Morello, Wilk",255529,8273592,0.99
+86,Out Of Exile,17,4,12,"Cornell, Commerford, Morello, Wilk",291291,9506571,0.99
+87,Be Yourself,337,2,25,"Cornell, Commerford, Morello, Wilk",279484,9106160,0.99
+88,Doesn't Remind Me,225,2,6,"Cornell, Commerford, Morello, Wilk",255869,8357387,0.99
+89,Drown Me Slowly,270,2,24,"Cornell, Commerford, Morello, Wilk",233691,7609178,0.99
+90,Heaven's Dead,324,2,9,"Cornell, Commerford, Morello, Wilk",276688,9006158,0.99
+91,The Worm,63,4,7,"Cornell, Commerford, Morello, Wilk",237714,7710800,0.99
+92,Man Or Animal,286,4,19,"Cornell, Commerford, Morello, Wilk",233195,7542942,0.99
+93,Yesterday To Tomorrow,213,2,5,"Cornell, Commerford, Morello, Wilk",273763,8944205,0.99
+94,Dandelion,278,1,21,"Cornell, Commerford, Morello, Wilk",278125,9003592,0.99
+95,#1 Zero,238,4,15,"Cornell, Commerford, Morello, Wilk",299102,9731988,0.99
+96,The Curse,238,3,3,"Cornell, Commerford, Morello, Wilk",309786,10029406,0.99
+97,Money,78,5,20,"Berry Gordy, Jr./Janie Bradford",147591,2365897,0.99
+98,Long Tall Sally,74,4,19,"Enotris Johnson/Little Richard/Robert ""Bumps"" Blackwell",106396,1707084,0.99
+99,Bad Boy,319,4,15,Larry Williams,116088,1862126,0.99
+100,Twist And Shout,249,1,12,Bert Russell/Phil Medley,161123,2582553,0.99
+101,Please Mr. Postman,210,4,23,Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett,137639,2206986,0.99
+102,C'Mon Everybody,150,2,8,Eddie Cochran/Jerry Capehart,140199,2247846,0.99
+103,Rock 'N' Roll Music,122,4,19,Chuck Berry,141923,2276788,0.99
+104,Slow Down,302,1,20,Larry Williams,163265,2616981,0.99
+105,Roadrunner,186,2,17,Bo Diddley,143595,2301989,0.99
+106,Carol,226,3,4,Chuck Berry,143830,2306019,0.99
+107,Good Golly Miss Molly,195,2,16,Little Richard,106266,1704918,0.99
+108,20 Flight Rock,278,2,7,Ned Fairchild,107807,1299960,0.99
+109,Quadrant,168,1,11,Billy Cobham,261851,8538199,0.99
+110,Snoopy's search-Red baron,199,5,4,Billy Cobham,456071,15075616,0.99
+111,"Spanish moss-""A sound portrait""-Spanish moss",291,1,2,Billy Cobham,248084,8217867,0.99
+112,Moon germs,72,1,7,Billy Cobham,294060,9714812,0.99
+113,Stratus,300,4,24,Billy Cobham,582086,19115680,0.99
+114,The pleasant pheasant,115,1,21,Billy Cobham,318066,10630578,0.99
+115,Solo-Panhandler,64,4,3,Billy Cobham,246151,8230661,0.99
+116,Do what cha wanna,186,4,7,George Duke,274155,9018565,0.99
+117,Wheels Of Confusion / The Straightener,134,2,15,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",494524,16065830,0.99
+118,Tomorrow's Dream,205,4,25,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",192496,6252071,0.99
+119,Changes,5,4,2,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",286275,9175517,0.99
+120,FX,305,3,12,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",103157,3331776,0.99
+121,Supernaut,104,4,13,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",285779,9245971,0.99
+122,Snowblind,334,3,22,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",331676,10813386,0.99
+123,Cornucopia,145,1,8,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",234814,7653880,0.99
+124,Laguna Sunrise,132,4,17,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",173087,5671374,0.99
+125,St. Vitus Dance,132,5,22,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",149655,4884969,0.99
+126,Under The Sun/Every Day Comes and Goes,138,4,2,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",350458,11360486,0.99
+127,King In Crimson,342,1,18,Roy Z,283167,9218499,0.99
+128,Chemical Wedding,179,1,22,Roy Z,246177,8022764,0.99
+129,The Tower,259,2,21,Roy Z,285257,9435693,0.99
+130,Killing Floor,103,3,17,Adrian Smith,269557,8854240,0.99
+131,Book Of Thel,90,1,15,Eddie Casillas/Roy Z,494393,16034404,0.99
+132,Gates Of Urizen,283,2,18,Roy Z,265351,8627004,0.99
+133,Jerusalem,260,5,7,Roy Z,402390,13194463,0.99
+134,Trupets Of Jericho,39,2,3,Roy Z,359131,11820908,0.99
+135,Machine Men,124,5,11,Adrian Smith,341655,11138147,0.99
+136,The Alchemist,219,3,3,Roy Z,509413,16545657,0.99
+137,Realword,302,4,10,Roy Z,237531,7802095,0.99
+138,First Time I Met The Blues,69,1,18,Eurreal Montgomery,140434,4604995,0.99
+139,Let Me Love You Baby,168,3,9,Willie Dixon,175386,5716994,0.99
+140,Stone Crazy,74,3,19,Buddy Guy,433397,14184984,0.99
+141,Pretty Baby,96,2,8,Willie Dixon,237662,7848282,0.99
+142,When My Left Eye Jumps,259,2,24,Al Perkins/Willie Dixon,235311,7685363,0.99
+143,Leave My Girl Alone,117,4,15,Buddy Guy,204721,6859518,0.99
+144,She Suits Me To A Tee,93,4,7,Buddy Guy,136803,4456321,0.99
+145,Keep It To Myself (Aka Keep It To Yourself),318,1,12,Sonny Boy Williamson [i],166060,5487056,0.99
+146,My Time After Awhile,76,5,23,Robert Geddins/Ron Badger/Sheldon Feinberg,182491,6022698,0.99
+147,Too Many Ways (Alternate),51,3,14,Willie Dixon,135053,4459946,0.99
+148,Talkin' 'Bout Women Obviously,93,2,2,Amos Blakemore/Buddy Guy,589531,19161377,0.99
+149,Jorge Da Capadócia,334,3,12,Jorge Ben,177397,5842196,0.99
+150,Prenda Minha,344,3,7,Tradicional,99369,3225364,0.99
+151,Meditação,64,5,25,Tom Jobim - Newton Mendoça,148793,4865597,0.99
+152,Terra,61,2,7,Caetano Veloso,482429,15889054,0.99
+153,Eclipse Oculto,49,1,21,Caetano Veloso,221936,7382703,0.99
+154,"Texto ""Verdade Tropical""",204,3,24,Caetano Veloso,84088,2752161,0.99
+155,Bem Devagar,211,3,8,Gilberto Gil,133172,4333651,0.99
+156,Drão,126,1,21,Gilberto Gil,156264,5065932,0.99
+157,Saudosismo,134,1,3,Caetano Veloso,144326,4726981,0.99
+158,Carolina,266,4,13,Chico Buarque,181812,5924159,0.99
+159,Sozinho,208,5,17,Peninha,190589,6253200,0.99
+160,Esse Cara,113,2,12,Caetano Veloso,223111,7217126,0.99
+161,Mel,82,4,11,Caetano Veloso - Waly Salomão,294765,9854062,0.99
+162,Linha Do Equador,314,2,12,Caetano Veloso - Djavan,299337,10003747,0.99
+163,Odara,170,3,22,Caetano Veloso,141270,4704104,0.99
+164,A Luz De Tieta,287,4,23,Caetano Veloso,251742,8507446,0.99
+165,Atrás Da Verd-E-Rosa Só Não Vai Quem Já Morreu,54,1,8,David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto,307252,10364247,0.99
+166,Vida Boa,54,4,4,Fausto Nilo - Armandinho,281730,9411272,0.99
+167,Mateus Enter,159,5,21,Chico Science,33149,1103013,0.99
+168,O Cidadão Do Mundo,343,4,25,Chico Science,200933,6724966,0.99
+169,Etnia,62,3,12,Chico Science,152555,5061413,0.99
+170,Quilombo Groove [instrumental],177,5,23,Chico Science,151823,5042447,0.99
+171,Macô,290,4,16,Chico Science,249600,8253934,0.99
+172,Um Passeio No Mundo Livre,29,2,15,Chico Science,240091,7984291,0.99
+173,Samba Do Lado,164,1,19,Chico Science,227317,7541688,0.99
+174,Maracatu Atômico,135,1,6,Chico Science,284264,9670057,0.99
+175,O Encontro De Isaac Asimov Com Santos Dumont No Céu,256,2,19,Chico Science,99108,3240816,0.99
+176,Corpo De Lama,226,4,11,Chico Science,232672,7714954,0.99
+177,Sobremesa,241,1,22,Chico Science,240091,7960868,0.99
+178,Manguetown,290,5,24,Chico Science,194560,6475159,0.99
+179,Um Satélite Na Cabeça,276,5,13,Chico Science,126615,4272821,0.99
+180,Baião Ambiental [instrumental],264,1,18,Chico Science,152659,5198539,0.99
+181,Sangue De Bairro,103,4,3,Chico Science,132231,4415557,0.99
+182,Enquanto O Mundo Explode,170,2,13,Chico Science,88764,2968650,0.99
+183,Interlude Zumbi,296,1,4,Chico Science,71627,2408550,0.99
+184,Criança De Domingo,162,4,9,Chico Science,208222,6984813,0.99
+185,Amor De Muito,322,1,7,Chico Science,175333,5881293,0.99
+186,Samidarish [instrumental],86,3,15,Chico Science,272431,8911641,0.99
+187,Maracatu Atômico [Atomic Version],250,2,14,Chico Science,273084,9019677,0.99
+188,Maracatu Atômico [Ragga Mix],59,4,12,Chico Science,210155,6986421,0.99
+189,Maracatu Atômico [Trip Hop],57,1,17,Chico Science,221492,7380787,0.99
+190,Girassol,16,5,16,Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido,249808,8327676,0.99
+191,A Sombra Da Maldade,190,1,23,Da Gama/Toni Garrido,230922,7697230,0.99
+192,Johnny B. Goode,165,1,10,Chuck Berry,254615,8505985,0.99
+193,Soldado Da Paz,69,5,10,Herbert Vianna,194220,6455080,0.99
+194,Firmamento,305,5,10,Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers,222145,7402658,0.99
+195,Extra,315,3,20,Gilberto Gil,304352,10078050,0.99
+196,O Erê,148,1,8,Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido,236382,7866924,0.99
+197,Podes Crer,117,4,18,Bino Farias/Da Gama/Lazão/Toni Garrido,232280,7747747,0.99
+198,A Estrada,42,4,12,Bino Farias/Da Gama/Lazão/Toni Garrido,248842,8275673,0.99
+199,Berlim,327,1,24,Da Gama/Toni Garrido,207542,6920424,0.99
+200,Já Foi,205,2,16,Bino Farias/Da Gama/Lazão/Toni Garrido,221544,7388466,0.99
+201,Onde Você Mora?,150,3,6,Marisa Monte/Nando Reis,256026,8502588,0.99
+202,Pensamento,260,5,20,Bino Farias/Da Gamma/Lazão/Rás Bernard,173008,5748424,0.99
+203,Conciliação,299,2,3,Da Gama/Lazão/Rás Bernardo,257619,8552474,0.99
+204,Realidade Virtual,103,3,7,Bino Farias/Da Gama/Lazão/Toni Garrido,195239,6503533,0.99
+205,Mensagem,165,1,19,Bino Farias/Da Gama/Lazão/Rás Bernardo,225332,7488852,0.99
+206,A Cor Do Sol,15,2,19,Bernardo Vilhena/Da Gama/Lazão,231392,7663348,0.99
+207,Onde Você Mora?,39,5,3,Marisa Monte/Nando Reis,298396,10056970,0.99
+208,O Erê,251,2,7,Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido,206942,6950332,0.99
+209,A Sombra Da Maldade,168,3,9,Da Gama/Toni Garrido,285231,9544383,0.99
+210,A Estrada,157,2,22,Da Gama/Lazao/Toni Garrido,282174,9344477,0.99
+211,Falar A Verdade,191,1,12,Bino/Da Gama/Ras Bernardo,244950,8189093,0.99
+212,Firmamento,94,1,11,Harry Lawes/Winston Foster-Vers,225488,7507866,0.99
+213,Pensamento,87,4,2,Bino/Da Gama/Ras Bernardo,192391,6399761,0.99
+214,Realidade Virtual,76,4,23,Bino/Da Gamma/Lazao/Toni Garrido,240300,8069934,0.99
+215,Doutor,334,2,25,Bino/Da Gama/Toni Garrido,178155,5950952,0.99
+216,Na Frente Da TV,122,5,18,Bino/Da Gama/Lazao/Ras Bernardo,289750,9633659,0.99
+217,Downtown,330,4,24,Cidade Negra,239725,8024386,0.99
+218,Sábado A Noite,253,2,10,Lulu Santos,267363,8895073,0.99
+219,A Cor Do Sol,182,5,2,Bernardo Vilhena/Da Gama/Lazao,273031,9142937,0.99
+220,Eu Também Quero Beijar,89,2,23,Fausto Nilo/Moraes Moreira/Pepeu Gomes,211147,7029400,0.99
+221,"Dig-Dig, Lambe-Lambe (Ao Vivo)",67,1,25,Cassiano Costa/Cintia Maviane/J.F./Lucas Costa,205479,6892516,0.99
+222,Pererê,315,3,7,Augusto Conceição/Chiclete Com Banana,198661,6643207,0.99
+223,TriboTchan,47,2,25,Cal Adan/Paulo Levi,194194,6507950,0.99
+224,"Tapa Aqui, Descobre Ali",292,2,14,Paulo Levi/W. Rangel,188630,6327391,0.99
+225,Daniela,256,1,12,Jorge Cardoso/Pierre Onasis,230791,7748006,0.99
+226,Bate Lata,330,5,23,Fábio Nolasco/Gal Sales/Ivan Brasil,206733,7034985,0.99
+227,Garotas do Brasil,61,3,3,"Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira",210155,6973625,0.99
+228,Levada do Amor (Ailoviu),155,3,6,Luiz Wanderley/Paulo Levi,190093,6457752,0.99
+229,Lavadeira,112,4,24,"Do Vale, Valverde/Gal Oliveira/Luciano Pinto",214256,7254147,0.99
+230,Reboladeira,298,2,17,Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill,210599,7027525,0.99
+231,É que Nessa Encarnação Eu Nasci Manga,251,3,11,Lucina/Luli,196519,6568081,0.99
+232,Reggae Tchan,192,5,20,"Cal Adan/Del Rey, Tension/Edu Casanova",206654,6931328,0.99
+233,My Love,173,1,4,Jauperi/Zeu Góes,203493,6772813,0.99
+234,Latinha de Cerveja,264,5,18,Adriano Bernandes/Edmar Neves,166687,5532564,0.99
+235,You Shook Me,78,3,7,J B Lenoir/Willie Dixon,315951,10249958,0.99
+236,I Can't Quit You Baby,8,1,5,Willie Dixon,263836,8581414,0.99
+237,Communication Breakdown,166,3,8,Jimmy Page/John Bonham/John Paul Jones,192653,6287257,0.99
+238,Dazed and Confused,51,5,11,Jimmy Page,401920,13035765,0.99
+239,The Girl I Love She Got Long Black Wavy Hair,32,5,18,Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant,183327,5995686,0.99
+240,What is and Should Never Be,278,3,16,Jimmy Page/Robert Plant,260675,8497116,0.99
+241,Communication Breakdown(2),280,3,11,Jimmy Page/John Bonham/John Paul Jones,161149,5261022,0.99
+242,Travelling Riverside Blues,313,4,9,Jimmy Page/Robert Johnson/Robert Plant,312032,10232581,0.99
+243,Whole Lotta Love,269,4,11,Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon,373394,12258175,0.99
+244,Somethin' Else,171,5,12,Bob Cochran/Sharon Sheeley,127869,4165650,0.99
+245,Communication Breakdown(3),111,3,24,Jimmy Page/John Bonham/John Paul Jones,185260,6041133,0.99
+246,I Can't Quit You Baby(2),107,1,18,Willie Dixon,380551,12377615,0.99
+247,You Shook Me(2),132,4,1,J B Lenoir/Willie Dixon,619467,20138673,0.99
+248,How Many More Times,163,1,11,Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant,711836,23092953,0.99
+249,Debra Kadabra,122,5,25,Frank Zappa,234553,7649679,0.99
+250,Carolina Hard-Core Ecstasy,34,4,5,Frank Zappa,359680,11731061,0.99
+251,Sam With The Showing Scalp Flat Top,40,5,10,Don Van Vliet,171284,5572993,0.99
+252,Poofter's Froth Wyoming Plans Ahead,1,3,10,Frank Zappa,183902,6007019,0.99
+253,200 Years Old,230,5,15,Frank Zappa,272561,8912465,0.99
+254,Cucamonga,208,2,7,Frank Zappa,144483,4728586,0.99
+255,Advance Romance,102,5,19,Frank Zappa,677694,22080051,0.99
+256,Man With The Woman Head,287,1,5,Don Van Vliet,88894,2922044,0.99
+257,Muffin Man,223,4,24,Frank Zappa,332878,10891682,0.99
+258,Guanabara,155,1,20,Marcos Valle,247614,8499591,0.99
+259,Mas Que Nada,142,2,15,Jorge Ben,248398,8255254,0.99
+260,Vôo Sobre o Horizonte,205,5,17,J.r.Bertami/Parana,225097,7528825,0.99
+261,A Paz,225,5,24,Donato/Gilberto Gil,263183,8619173,0.99
+262,Wave (Vou te Contar),296,3,2,Antonio Carlos Jobim,271647,9057557,0.99
+263,Água de Beber,301,4,9,Antonio Carlos Jobim/Vinicius de Moraes,146677,4866476,0.99
+264,Samba da Bençaco,136,4,16,Baden Powell/Vinicius de Moraes,282200,9440676,0.99
+265,Pode Parar,315,4,12,Jorge Vercilo/Jota Maranhao,179408,6046678,0.99
+266,Menino do Rio,193,1,10,Caetano Veloso,262713,8737489,0.99
+267,Ando Meio Desligado,304,2,5,Caetano Veloso,195813,6547648,0.99
+268,Mistério da Raça,166,4,25,Luiz Melodia/Ricardo Augusto,184320,6191752,0.99
+269,All Star,23,1,22,Nando Reis,176326,5891697,0.99
+270,Menina Bonita,151,2,17,Alexandre Brazil/Pedro Luis/Rodrigo Cabelo,237087,7938246,0.99
+271,Pescador de Ilusões,294,5,8,Macelo Yuka/O Rappa,245524,8267067,0.99
+272,À Vontade (Live Mix),270,4,8,Bombom/Ed Motta,180636,5972430,0.99
+273,Maria Fumaça,48,4,17,Luiz Carlos/Oberdan,141008,4743149,0.99
+274,Sambassim (dj patife remix),239,3,24,Alba Carvalho/Fernando Porto,213655,7243166,0.99
+275,Garota De Ipanema,115,1,13,Vários,279536,9141343,0.99
+276,Tim Tim Por Tim Tim,182,3,1,Vários,213237,7143328,0.99
+277,Tarde Em Itapoã,7,4,15,Vários,313704,10344491,0.99
+278,Tanto Tempo,188,1,6,Vários,170292,5572240,0.99
+279,Eu Vim Da Bahia - Live,260,2,10,Vários,157988,5115428,0.99
+280,Alô Alô Marciano,65,3,21,Vários,238106,8013065,0.99
+281,Linha Do Horizonte,120,1,19,Vários,279484,9275929,0.99
+282,Only A Dream In Rio,304,4,21,Vários,371356,12192989,0.99
+283,Abrir A Porta,62,2,21,Vários,271960,8991141,0.99
+284,Alice,188,2,11,Vários,165982,5594341,0.99
+285,Momentos Que Marcam,302,4,1,Vários,280137,9313740,0.99
+286,Um Jantar Pra Dois,179,4,19,Vários,237714,7819755,0.99
+287,Bumbo Da Mangueira,293,5,17,Vários,270158,9073350,0.99
+288,Mr Funk Samba,191,3,10,Vários,213890,7102545,0.99
+289,Santo Antonio,40,1,2,Vários,162716,5492069,0.99
+290,Por Você,189,5,24,Vários,205557,6792493,0.99
+291,Só Tinha De Ser Com Você,37,3,5,Vários,389642,13085596,0.99
+292,Free Speech For The Dumb,4,4,6,Molaney/Morris/Roberts/Wainwright,155428,5076048,0.99
+293,It's Electric,157,2,5,Harris/Tatler,213995,6978601,0.99
+294,Sabbra Cadabra,4,2,2,Black Sabbath,380342,12418147,0.99
+295,Turn The Page,338,5,19,Seger,366524,11946327,0.99
+296,Die Die My Darling,335,3,18,Danzig,149315,4867667,0.99
+297,Loverman,187,5,22,Cave,472764,15446975,0.99
+298,Mercyful Fate,120,4,11,Diamond/Shermann,671712,21942829,0.99
+299,Astronomy,52,5,14,A.Bouchard/J.Bouchard/S.Pearlman,397531,13065612,0.99
+300,Whiskey In The Jar,252,5,3,Traditional,305005,9943129,0.99
+301,Tuesday's Gone,39,5,3,Collins/Van Zandt,545750,17900787,0.99
+302,The More I See,79,2,21,Molaney/Morris/Roberts/Wainwright,287973,9378873,0.99
+303,A Kind Of Magic,35,4,8,Roger Taylor,262608,8689618,0.99
+304,Under Pressure,252,4,20,Queen & David Bowie,236617,7739042,0.99
+305,Radio GA GA,7,5,16,Roger Taylor,343745,11358573,0.99
+306,I Want It All,164,5,21,Queen,241684,7876564,0.99
+307,I Want To Break Free,225,5,18,John Deacon,259108,8552861,0.99
+308,Innuendo,297,2,2,Queen,387761,12664591,0.99
+309,It's A Hard Life,181,3,21,Freddie Mercury,249417,8112242,0.99
+310,Breakthru,62,2,5,Queen,249234,8150479,0.99
+311,Who Wants To Live Forever,223,2,19,Brian May,297691,9577577,0.99
+312,Headlong,230,2,5,Queen,273057,8921404,0.99
+313,The Miracle,271,2,22,Queen,294974,9671923,0.99
+314,I'm Going Slightly Mad,275,5,16,Queen,248032,8192339,0.99
+315,The Invisible Man,271,3,1,Queen,238994,7920353,0.99
+316,Hammer To Fall,208,4,25,Brian May,220316,7255404,0.99
+317,Friends Will Be Friends,132,1,18,Freddie Mercury & John Deacon,248920,8114582,0.99
+318,The Show Must Go On,73,1,7,Queen,263784,8526760,0.99
+319,One Vision,328,5,24,Queen,242599,7936928,0.99
+320,Detroit Rock City,333,3,6,"Paul Stanley, B. Ezrin",218880,7146372,0.99
+321,Black Diamond,106,1,1,Paul Stanley,314148,10266007,0.99
+322,Hard Luck Woman,74,2,11,Paul Stanley,216032,7109267,0.99
+323,Sure Know Something,174,3,10,"Paul Stanley, Vincent Poncia",242468,7939886,0.99
+324,Love Gun,4,5,24,Paul Stanley,196257,6424915,0.99
+325,Deuce,261,2,9,Gene Simmons,185077,6097210,0.99
+326,Goin' Blind,71,3,22,"Gene Simmons, S. Coronel",216215,7045314,0.99
+327,Shock Me,166,1,14,Ace Frehley,227291,7529336,0.99
+328,Do You Love Me,298,1,23,"Paul Stanley, B. Ezrin, K. Fowley",214987,6976194,0.99
+329,She,78,2,18,"Gene Simmons, S. Coronel",248346,8229734,0.99
+330,I Was Made For Loving You,271,5,9,"Paul Stanley, Vincent Poncia, Desmond Child",271360,9018078,0.99
+331,Shout It Out Loud,79,5,2,"Paul Stanley, Gene Simmons, B. Ezrin",219742,7194424,0.99
+332,God Of Thunder,183,2,25,Paul Stanley,255791,8309077,0.99
+333,Calling Dr. Love,21,3,7,Gene Simmons,225332,7395034,0.99
+334,Beth,306,1,7,"S. Penridge, Bob Ezrin, Peter Criss",166974,5360574,0.99
+335,Strutter,273,1,18,"Paul Stanley, Gene Simmons",192496,6317021,0.99
+336,Rock And Roll All Nite,163,1,22,"Paul Stanley, Gene Simmons",173609,5735902,0.99
+337,Cold Gin,60,3,22,Ace Frehley,262243,8609783,0.99
+338,Plaster Caster,88,3,19,Gene Simmons,207333,6801116,0.99
+339,God Gave Rock 'n' Roll To You,315,4,13,"Paul Stanley, Gene Simmons, Rus Ballard, Bob Ezrin",320444,10441590,0.99
+340,Maria,216,3,5,Billie Joe Armstrong -Words Green Day -Music,167262,5484747,0.99
+341,Poprocks And Coke,315,3,17,Billie Joe Armstrong -Words Green Day -Music,158354,5243078,0.99
+342,Longview,117,4,25,Billie Joe Armstrong -Words Green Day -Music,234083,7714939,0.99
+343,Welcome To Paradise,32,2,20,Billie Joe Armstrong -Words Green Day -Music,224208,7406008,0.99
+344,Basket Case,57,4,7,Billie Joe Armstrong -Words Green Day -Music,181629,5951736,0.99
+345,When I Come Around,145,4,23,Billie Joe Armstrong -Words Green Day -Music,178364,5839426,0.99
+346,She,84,5,22,Billie Joe Armstrong -Words Green Day -Music,134164,4425128,0.99
+347,J.A.R. (Jason Andrew Relva),73,4,9,Mike Dirnt -Words Green Day -Music,170997,5645755,0.99
+348,Geek Stink Breath,216,2,11,Billie Joe Armstrong -Words Green Day -Music,135888,4408983,0.99
+349,Brain Stew,112,3,24,Billie Joe Armstrong -Words Green Day -Music,193149,6305550,0.99
+350,Jaded,202,4,16,Billie Joe Armstrong -Words Green Day -Music,90331,2950224,0.99
+351,Walking Contradiction,51,2,17,Billie Joe Armstrong -Words Green Day -Music,151170,4932366,0.99
+352,Stuck With Me,100,5,11,Billie Joe Armstrong -Words Green Day -Music,135523,4431357,0.99
+353,Hitchin' A Ride,344,2,22,Billie Joe Armstrong -Words Green Day -Music,171546,5616891,0.99
+354,Good Riddance (Time Of Your Life),19,4,18,Billie Joe Armstrong -Words Green Day -Music,153600,5075241,0.99
+355,Redundant,21,3,18,Billie Joe Armstrong -Words Green Day -Music,198164,6481753,0.99
+356,Nice Guys Finish Last,20,3,6,Billie Joe Armstrong -Words Green Day -Music,170187,5604618,0.99
+357,Minority,256,1,21,Billie Joe Armstrong -Words Green Day -Music,168803,5535061,0.99
+358,Warning,267,2,14,Billie Joe Armstrong -Words Green Day -Music,221910,7343176,0.99
+359,Waiting,171,1,20,Billie Joe Armstrong -Words Green Day -Music,192757,6316430,0.99
+360,Macy's Day Parade,131,2,11,Billie Joe Armstrong -Words Green Day -Music,213420,7075573,0.99
+361,Into The Light,328,1,8,David Coverdale,76303,2452653,0.99
+362,River Song,336,4,7,David Coverdale,439510,14359478,0.99
+363,She Give Me ...,13,5,14,David Coverdale,252551,8385478,0.99
+364,Don't You Cry,309,1,25,David Coverdale,347036,11269612,0.99
+365,Love Is Blind,7,5,6,David Coverdale/Earl Slick,344999,11409720,0.99
+366,Slave,91,1,15,David Coverdale/Earl Slick,291892,9425200,0.99
+367,Cry For Love,151,5,17,Bossi/David Coverdale/Earl Slick,293015,9567075,0.99
+368,Living On Love,104,1,17,Bossi/David Coverdale/Earl Slick,391549,12785876,0.99
+369,Midnight Blue,121,1,20,David Coverdale/Earl Slick,298631,9750990,0.99
+370,Too Many Tears,170,3,1,Adrian Vanderberg/David Coverdale,359497,11810238,0.99
+371,Don't Lie To Me,291,2,2,David Coverdale/Earl Slick,283585,9288007,0.99
+372,Wherever You May Go,105,3,6,David Coverdale,239699,7803074,0.99
+373,Grito De Alerta,163,2,5,Gonzaga Jr.,202213,6539422,0.99
+,,,,2,,,,
+,,,,20,,,,
+,,,,22,,,,
+,,,,13,,,,
+,,,,6,,,,
+,,,,1,,,,
+,,,,18,,,,
+,,,,13,,,,
+,,,,17,,,,
+,,,,14,,,,

@@ -1,0 +1,7 @@
+Create table  Status(
+CURRENT_ST VARCHAR (15),
+SENT_DATE TEXT,
+DELIVERY_DATE TEXT,
+SH_ID VARCHAR (6),
+primary key (SH_ID)
+);
